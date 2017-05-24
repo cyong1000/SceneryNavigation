@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">景然有叙</string>
+    <string name="searchCity">请输入待搜索的城市或其拼音</string>
+    <string name="location">定位</string>
+    <string name="selectCity">选择城市</string>
+    <string name="cp_hot_city">热门城市</string>
+    <string name="keywords">请输入查询关键字</string>
+</resources>
